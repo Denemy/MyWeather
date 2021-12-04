@@ -11,4 +11,4 @@ Added two languages, Russian and English and a dark topic to be comfortable to y
 
 ### Adding new locations ☁
 ![Alt Text](https://media3.giphy.com/media/oiObiWkMOqzqQLZsQS/giphy.gif?cid=790b7611a1cbd33a724e299e2c58e048b276dd533a9e2414&rid=giphy.gif)
-<img src="https://media3.giphy.com/media/oiObiWkMOqzqQLZsQS/giphy.gif?cid=790b7611a1cbd33a724e299e2c58e048b276dd533a9e2414&rid=giphy.gif" width="400" height="400" />
+<img src="https://media3.giphy.com/media/oiObiWkMOqzqQLZsQS/giphy.gif?cid=790b7611a1cbd33a724e299e2c58e048b276dd533a9e2414&rid=giphy.gif" width="360" height="640" />
