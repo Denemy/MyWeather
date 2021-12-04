@@ -11,4 +11,3 @@ Added two languages, Russian and English and a dark topic to be comfortable to y
 
 ### Adding new locations ☁
 [![2021-12-04-00-58-05_13.gif](https://s10.gifyu.com/images/2021-12-04-00-58-05_13.gif)](https://gifyu.com/image/S2aWI)
-<img src="https://s10.gifyu.com/images/2021-12-04-00-58-05_13.gif" width="480" height="854" />
